@@ -8,13 +8,13 @@ netstat
 
 ## Ifconfig command
 
-### Step 1 :
+### step 1 :
 
 ```jsx
 sudo apt-get install net-tools
 ```
 
-### Step 2 :
+### step 2 :
 
 ```jsx
 ipconfig
@@ -48,13 +48,13 @@ sudo apt get install -y whois
 
 ## Tracing command
 
-### Step 1:
+### step 1:
 
 ```jsx
 sudo apt install pvm-dev
 ```
 
-### Step 2:
+### step 2:
 
 ```jsx
 tracer
