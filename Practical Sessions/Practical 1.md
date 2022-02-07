@@ -8,13 +8,13 @@ netstat
 
 ## Ifconfig command
 
-## Step 1 :
+### Step 1 :
 
 ```jsx
 sudo apt-get install net-tools
 ```
 
-## Step 2 :
+### Step 2 :
 
 ```jsx
 ipconfig
@@ -32,13 +32,13 @@ ping YOUR_IP_ADDRESS
 
 - To run the whois command download the following requirements
 
-## step 1:
+### step 1:
 
 ```jsx
 sudo apt-get update -y
 ```
 
-## step 2:
+### step 2:
 
 ```jsx
 sudo apt get install -y whois
